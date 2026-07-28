@@ -10,6 +10,7 @@ copies/
   m_and_a_advisory.md          ← second industry pack, 5 angles × 3-email sequences
   business_loan_brokers.md     ← third industry pack, 5 angles × 3-email sequences
   equipment_finance_brokers.md ← fourth industry pack, 5 angles × 3-email sequences
+  private_credit_brokers.md    ← fifth industry pack, 5 angles × 3-email sequences (advisory tone)
 ```
 
 ## Framework
@@ -34,7 +35,6 @@ Full rationale in `copies/cre_mortgage_brokers.md`. Short version:
 
 ## Next industries to add (in priority order)
 
-1. `private_credit_brokers` — bigger deals, slower cycle, needs a more "advisory" tone.
-2. `debt_advisory_restructuring` — trigger is even more direct, but smaller buyer universe.
-3. `fractional_cfo_firms` — indirect fit, sell as "your clients' refi trigger."
-4. `cpa_accounting_firms` — weakest fit, save for last.
+1. `debt_advisory_restructuring` — trigger is even more direct, but smaller buyer universe.
+2. `fractional_cfo_firms` — indirect fit, sell as "your clients' refi trigger."
+3. `cpa_accounting_firms` — weakest fit, save for last.
