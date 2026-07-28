@@ -13,6 +13,7 @@ copies/
   private_credit_brokers.md         ← fifth industry pack, 5 angles × 3-email sequences (advisory tone)
   debt_advisory_restructuring.md    ← sixth industry pack, 5 angles × 3-email sequences (crisis-focused)
   fractional_cfo_firms.md           ← seventh industry pack, 5 angles × 3-email sequences
+  cpa_accounting_firms.md           ← eighth industry pack, 5 angles × 3-email sequences (referral-network focus)
 ```
 
 ## Framework
@@ -35,6 +36,22 @@ Full rationale in `copies/cre_mortgage_brokers.md`. Short version:
 - Owner-operator borrowers are underrepresented in LinkedIn/Apollo/CoStar → Google Maps is the actual unlock.
 - Broker side is saturated → "volume + fresh data beats precision" thesis lands cleanly.
 
-## Next industries to add (in priority order)
+## All initial packs complete
 
-1. `cpa_accounting_firms` — weakest fit, save for last, but viable for client referrals + affiliate revenue share.
+All 8 industry verticals have been created:
+1. ✅ CRE mortgage brokers (transactional, high-volume)
+2. ✅ M&A advisory (strategic, deal-focused)
+3. ✅ Business loan brokers (origination-focused)
+4. ✅ Equipment finance brokers (lease-maturity-focused)
+5. ✅ Private credit brokers (advisory, cap-table intelligence)
+6. ✅ Debt advisory & restructuring (crisis-focused, early-warning)
+7. ✅ Fractional CFO firms (practitioner-focused, client-advisory + sourcing)
+8. ✅ CPA accounting firms (referral-network, B2B2B model)
+
+## Future expansion ideas
+
+- SBA lenders (alternative, direct lending focus)
+- Commercial mortgage servicers (portfolio management angle)
+- Venture debt advisors (growth-stage capital structures)
+- Real estate syndicators (syndication-fold-up angle)
+- Fintech lenders (technology + alternative capital)
