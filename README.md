@@ -12,6 +12,7 @@ copies/
   equipment_finance_brokers.md      ← fourth industry pack, 5 angles × 3-email sequences
   private_credit_brokers.md         ← fifth industry pack, 5 angles × 3-email sequences (advisory tone)
   debt_advisory_restructuring.md    ← sixth industry pack, 5 angles × 3-email sequences (crisis-focused)
+  fractional_cfo_firms.md           ← seventh industry pack, 5 angles × 3-email sequences
 ```
 
 ## Framework
@@ -36,5 +37,4 @@ Full rationale in `copies/cre_mortgage_brokers.md`. Short version:
 
 ## Next industries to add (in priority order)
 
-1. `fractional_cfo_firms` — indirect fit, sell as "your clients' refi trigger."
-2. `cpa_accounting_firms` — weakest fit, save for last.
+1. `cpa_accounting_firms` — weakest fit, save for last, but viable for client referrals + affiliate revenue share.
